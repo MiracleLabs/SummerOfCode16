@@ -12,15 +12,15 @@ The following are the technologies that are used in this lab. Any prior knowledg
 
 • IBM Bluemix
 
-• Cloud9
+• Cloud9(Web IDE)
 
-• Cloud Foundary
+• Cloud Foundry
 
-• Node.js
+• Node.js and NPM
 
-• Express.js
+• Express.js(For Routing and Middleware)
 
-• HTML
+• HTML/CSS/JavaScript
 
 ## Repository Contents
 
