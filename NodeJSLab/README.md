@@ -37,5 +37,7 @@ The repository contains detailed documentation and steps for understanding and c
 The following people have contributed to the development and delivery of this lab. This Lab is created and owned by the Miracle Innovation Labs Team.
 
 • Pavani Gedala - MEAN Stack Developer
+
 • Manasa Sutapalli - Cloud Research Associate
+
 • Chanakya Lokam - Director - Miracle Innovation Labs
