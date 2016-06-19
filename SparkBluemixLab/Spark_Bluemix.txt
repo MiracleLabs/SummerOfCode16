@@ -1,0 +1,11 @@
+#Twitter Credentials
+Consumer key =
+Consumer Secret =
+
+Aceess Token =
+Acess Token Secret =
+
+#Watson Tone Analyzer service credentials
+url =
+password =
+username =

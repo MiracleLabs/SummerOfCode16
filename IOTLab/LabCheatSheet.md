@@ -10,9 +10,8 @@ Download Vehicle Simulator Project - https://github.com/jeffdare/iot-onboard-veh
 
 ## Code Snippets
 
-The following code snippets will help you in creating the final Consumer Application.
+Change the following in realtime.js,
 
-realtime.js change snippet
 ```
 var orgId = “<your-Organization-ID>”
 var deviceType = “<your-device-Type>”
