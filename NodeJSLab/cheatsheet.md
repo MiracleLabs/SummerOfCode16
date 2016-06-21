@@ -61,7 +61,7 @@ To login to the CF Target and push your code,
 ./cf push
 ```
 
-Based on your region in Bluemix your API Endpoint will change as follows, 
+Based on your region in Bluemix your API Endpoint will change as follows,
 
 ```shell
 •	For Sydney : cf api https://api.au-syd.bluemix.net

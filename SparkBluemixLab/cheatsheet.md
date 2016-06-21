@@ -13,7 +13,7 @@ Access Bluemix - http://bluemix.net
 To install Spark application JAR,
 
 ```shell
-%AddJar https://github.com/ibm-cds-labs/spark.samples/raw/master/dist/streaming-twitter-assembly-1.2.jar -f
+%AddJar https://github.com/ibm-cds-labs/spark.samples/raw/master/dist/streaming-twitter-assembly-1.6.jar -f
 ```
 
 For streaming tweets,
